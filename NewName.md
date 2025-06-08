@@ -1,4 +1,5 @@
 <<<<<<< HEAD:NewName.md
+<<<<<<< HEAD:NewName.md
 Heading
 =======
 
@@ -16,6 +17,9 @@ Two spaces at the end of a line
 produce a line break.
 
 I want to make sure that you understand. 
+=======
+This is content
+>>>>>>> parent of 3892222 (Adding Example.md):Example.md
 =======
 This is content
 >>>>>>> parent of 3892222 (Adding Example.md):Example.md
